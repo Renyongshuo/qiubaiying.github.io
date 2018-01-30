@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      mac 系统的中常见的命令行教程
+subtitle:   mac
+date:       2018-01-30
+author:     BY
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - mac
+    - 命令行
+    - 
+    - 
+---
 # mac 系统的中常见命令行教程
 
 
