@@ -1,0 +1,39 @@
+---
+layout:     post
+title:      乔老爷子的话
+subtitle:   永远的信仰——乔布斯
+date:       2018-03-20
+author:     BY
+header-img: img/post-bg-BJJ.jpg
+catalog: true
+tags:
+    - BJJ
+---
+
+# 乔布斯经典语录
+## 前言
+> 乔布斯大概是这个是这个世界上唯一一个凭借一己之力改变世界的人。
+
+* Life is brief, and then you die, you know？
+人生短暂，过着过着你就没了，明白么？
+
+* Innovation distinguishes between a leader and a follower.
+领袖和跟风者的区别就在于创新。
+
+* We're here to put a dent in the universe. Otherwise why else even be here?
+活着就是为了改变世界，难道还有其他原因吗？
+
+* Do you want to spend the rest of your life selling sugared water or do you want a chance to change the world？
+你想用卖糖水来度过余生，还是想要一个机会来改变世界？
+
+* Death is very likely the single best invention of Life. It is Life’s change agent. It clears out the old to make way for the new.
+死亡很可能是唯一的、最好的生命创造。它是生命的促变者。它送走老一代，给新一代开出道路。
+
+* Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.
+要有勇气追随心声，听从直觉，它们在某种程度上知道你想成为的样子。其他事情都是其次的。
+
+* Your time is limited, so don't waste it living someone else's life.…Don't let the noise of others' opinions drown out your own inner voice.
+你的时间有限，不要浪费于重复别人的生活。不要让别人的观点淹没了你内心的声音。
+
+* The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
+成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。
