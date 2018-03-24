@@ -5,8 +5,8 @@ description: "Thinking will not overcome fear but action will."
 {% for page in site.pages %}{% if page.title %}
 
 <li>
-    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-    <h2 class="page-title">{{ page.title }}</h2>
+    <a href="{{ page.url | prepend: site.baseurl }}"><h2 class="page-title">{{ page.title }}</h2></a>
+    
     {% if page.subtitle %}
     <h3 class="post-subtitle">
         {{ page.subtitle }}
