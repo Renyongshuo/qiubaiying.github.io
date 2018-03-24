@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      学习前端的一些必备网站
+subtitle:   前端之窗
+date:       2018-03-10
+author:     BY
+header-img: img/post-bg-BJJ.jpg
+catalog: true
+tags:
+    - BJJ
+---
+
+
 # 学习前端一些必备的网站
 ## 前言
 > 如果你想要致力于前端的学习开发，一下的这些网站能够让你如虎添翼，我也希望我提供的这些网站能够对你的学习有所帮助。
