@@ -7,6 +7,14 @@ description: "Thinking will not overcome fear but action will."
 <li>
     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
     <h2 class="page-title">{{ page.title }}</h2>
+    {% if page.subtitle %}
+    <h3 class="post-subtitle">
+        {{ page.subtitle }}
+    </h3>
+    {% endif %}
+    <div class="post-content-preview">
+        {{ page.content | strip_html | truncate:200 }}
+    </div>
 </li>
 {% endif %}{% endfor %}
 /* {% for page in paginator.posts %}
