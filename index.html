@@ -2,10 +2,14 @@
 layout: page
 description: "Thinking will not overcome fear but action will."
 ---
-
-{% for page in paginator.posts %}
+{% for page in site.pages %}{% if page.title %}
+<li>
+    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+</li>
+{% endif %}{% endfor %}
+/* {% for page in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ page.url | prepend: site.baseurl }}">
+      <a href="{{ page.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
         </h2>
@@ -22,6 +26,7 @@ description: "Thinking will not overcome fear but action will."
         Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 </div>
+*/
 <hr>
 {% endfor %}
 
