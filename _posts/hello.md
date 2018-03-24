@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      life
+subtitle:   I love life
+date:       2018-03-22
+author:     BY
+header-img: img/post-bg-BJJ.jpg
+catalog: true
+tags:
+    - life
+---
+# life
+## 前言
+> I love my life.
+ 
