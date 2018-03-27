@@ -13,4 +13,4 @@ tags:
 ### 前言
 > 张宇的考研数学现在大学生考研圈里口口相传，我个人就特别喜欢这个人，非常的有意思。
 
-* 这是他2019考研三十六讲公开课视频  http://mobile.iqihang.com/zt/36jiang/index.html?id=0  （id=[0,1,.......,35]）及对应每讲视频。
+* 这是他2019考研三十六讲公开课视频  <http://mobile.iqihang.com/zt/36jiang/index.html?id=0>  （id=[0,1,.......,35]）及对应每讲视频。
