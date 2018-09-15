@@ -6,7 +6,7 @@ email: 719250465@qq.com
 description: "Every failure is leading towards success."
 keyword: "Shuo, Shuo Blog, 永硕的博客, renyongshuo, 任永硕, python, php, tensorflow"
 url: "http://renyongshuo.github.io"          # your host, for absolute URL
-baseurl: "_post/"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "_posts/"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/renyongshuo/renyongshuo.github.io.git" # you code repository
 
 # Sidebar settings
