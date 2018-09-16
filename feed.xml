@@ -1,13 +1,5 @@
 ---
-layout:     post
-title:      xml文件
-subtitle:  
-date:       2018-03-10
-author:     Shuo
-header-img: img/post-bg-alibaba.jpg
-catalog: true
-tags:
-    - alibaba
+layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">

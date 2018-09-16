@@ -1,34 +1,27 @@
 ---
 layout: page
-description: "Have the courage to follow your heart and intuition"
+description: "Thinking will not overcome fear but action will."
 ---
 
-
-
-
-
-
-{% for page in site.pages %}
+{% for post in paginator.posts %}
 <div class="post-preview">
-<a href="{{ page.url | prepend: site.baseurl }}">
-<h2 class="post-title">
-{{ page.title }}
-</h2>
-{% if page.subtitle %}
-<h3 class="post-subtitle">
-{{ page.subtitle }}
-</h3>
-{% endif %}
-<div class="post-content-preview">
-{{ page.content | strip_html | truncate:200 }}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+        <div class="post-content-preview">
+            {{ post.content | strip_html | truncate:200 }}
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
 </div>
-</a>
-<p class="post-meta">
-Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}
-</p>
-</div>
-
-
 <hr>
 {% endfor %}
 
