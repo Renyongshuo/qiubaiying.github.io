@@ -3,11 +3,13 @@ layout:     post
 title:      mac翻墙软件shadowsocks
 subtitle:   BY Blog 
 date:       2017-12-19
-author:      SHUO
+author:      Shuo
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
     - Blog
+    - 编程
+    - 翻墙
 ---
 
 
